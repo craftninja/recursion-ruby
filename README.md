@@ -60,7 +60,7 @@ end
 
 ## Challenge
 
-Your mission, should you choose to accept it, is to make `node_walker_spec.rb` pass.
+Your mission, should you choose to accept it, is to make `tree_spec.rb` pass.
 
 # Setup
 
